@@ -1,4 +1,4 @@
 <?php
-define('SITEURL', 'http://localhost/github/mini_lib/');
+define('SITEURL', 'http://localhost/minilib/');
 define('ROOT', dirname(__DIR__) . DIRECTORY_SEPARATOR);
 ?>
